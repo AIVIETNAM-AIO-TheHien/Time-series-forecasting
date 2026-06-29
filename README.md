@@ -1,4 +1,5 @@
 # Gridbreaker Datathon 2026 - Task 3 Forecasting
+![Demo app](CER.png)
 
 Repo này chứa source code cho **Task 3** của cuộc thi Datathon 2026. Mục tiêu của task là dự báo hai chỉ tiêu theo ngày:
 
